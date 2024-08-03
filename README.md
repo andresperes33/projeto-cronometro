@@ -25,7 +25,7 @@ O tempo é exibido no formato `HH:MM:SS` e é atualizado a cada segundo.
 
 ## 🖼️ Screenshot
 
-![Screenshot do Cronômetro](.img/foto-projeto-cronometro.png)
+![Screenshot do Cronômetro](img/foto-projeto-cronometro.png)
 
 Descrição da imagem: Captura de tela da página web com o cronômetro, incluindo os botões de iniciar/parar e resetar.
 
